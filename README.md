@@ -1,2 +1,7 @@
-# FUN-ZhabaGetter
-Десктопна програма, що отримує картинки жаб з Unsplash API. Пробний проект для оцінки мови Ring
+# ZhabaGetter  
+  
+Desktop app. Gets a frogpic. JFF, you know   
+  
+**Language:** Ring (I just want to try it)  
+**Additional:** MVC, Qt for Ring  
+**Created:** just for fun (04.04.2021)  
